@@ -3,7 +3,7 @@ layout: post
 title: "Bibliografia - Pensamento Computacional Crítico"
 date: 2024-10-08
 categories: curriculo
-short_description: Curriculo
+short_description: currículo, informática na educação
 ---
 
 # Bibliografia sobre o Pensamento Computacional Crítico
