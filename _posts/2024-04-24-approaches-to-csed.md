@@ -7,7 +7,7 @@ short_description: Currículo
 image_preview: 
 ---
 
-This work is a translated, revised, and updated version of subsections 2.1.1 and 2.1.2 of my master's dissertation (Carvalho, 2023). These subsections provide a brief historical overview and classification of the approaches found in the field of Computer Science Education. The present translation was prepared during the application process for the Certificate Scholarship at the New Centre for Research & Practice, in the Transdisciplinary Studies program.
+This work is a translated, revised, and updated version of subsections 2.1.1 and 2.1.2 of my master's dissertation (Carvalho, 2023). These subsections provide a brief historical overview and classification of the approaches found in the field of Computer Science Education.
 
 Carvalho, W. R. B. (2023). EMPADARIA - framework para o desenvolvimento de ficções interativas por meio da Pedagogia de Projetos. Dissertation (Master's in Computer Science) - UFABC (Universidade Federal do ABC). São Paulo. <a href="https://www.researchgate.net/publication/379568331_EMPADARIA_-_framework_para_o_desenvolvimento_de_ficcoes_interativas_por_meio_da_Pedagogia_de_Projetos">Link</a>
 
