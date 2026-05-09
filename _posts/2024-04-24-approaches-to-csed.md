@@ -3,8 +3,7 @@ layout: post
 title: "Approaches to Computer Science in Education"
 date: 2024-04-24
 categories: curriculo
-short_description: Currículo
-image_preview: 
+short_description: currículo, informática na educação
 ---
 
 This work is a translated, revised, and updated version of subsections 2.1.1 and 2.1.2 of my master's dissertation (Carvalho, 2023). These subsections provide a brief historical overview and classification of the approaches found in the field of Computer Science Education.
