@@ -4,7 +4,6 @@ title: "Manifesto Arquivista, por Yuk Hui"
 date: 2024-04-09
 categories: traducoes
 short_description: Tradução
-image_preview: 
 ---
 
 Tradução por Walter Bolitto Carvalho
