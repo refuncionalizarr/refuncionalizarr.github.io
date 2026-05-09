@@ -3,7 +3,7 @@ layout: post
 title: "Manifesto Arquivista, por Yuk Hui"
 date: 2024-04-09
 categories: traducoes
-short_description: Tags: tradução, filosofia da técnica
+short_description: tradução, filosofia da técnica
 ---
 
 Tradução por Walter Bolitto Carvalho
