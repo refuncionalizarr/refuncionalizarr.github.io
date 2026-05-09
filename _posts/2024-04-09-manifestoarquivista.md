@@ -19,7 +19,7 @@ Texto original: https://www.metamute.org/editorial/lab/archivist-manifesto
 
 – Novo Arquivista, Gilles Deleuze
 
-## §1. Arquivo
+# §1. Arquivo
 
 Somos arquivistas, porque precisamos ser. Não temos escolha. Essa decisão já está tomada, ou determinada pela condição tecnológica contemporânea. A ubiquidade da informação em formas digitais e calculáveis criou uma nova situação de trabalho e exploração, nós entramos em um processo interminável de produção de dados e, em seguida, também entramos em um interminável buraco negro de navegação de dados. A internet de dados é um enorme arquivo de dados e, ao mesmo tempo, um enorme buraco negro que suga toda produtividade. O Google é a melhor exemplificação desse duplo papel: por um lado, nós contribuímos com dados ao usar as ferramentas do Google, e-mails, blogs, Google+, Hangout, etc.; e por outro lado, o Google nos fornece ferramentas de busca e gerenciamento para sobreviver nesse meio digital. Pior ainda, o Facebook mostra outro lado, um enorme arquivo de dados sem navegabilidade, a única navegação que se pode fazer é procurar por seu amigo; caso contrário, é preciso rolar para baixo a página para descobrir o que você escreveu anos atrás.
 
@@ -27,7 +27,7 @@ Nessa situação, devemos reconhecer que o arquivo é uma das principais questõ
 
 Nesse aspecto, o Google está tecnicamente à frente dessas organizações, o Google Books e o Google Museums são esforços para reapropriar as humanidades por meio de digitalização e crowdsourcing. O Google não apenas oferece serviços com maior qualidade e velocidade, mas também vai além da relação entre arquivos e sujeitos humanos. Os arquivos do Google apresentam uma distinção importante em relação aos de Foucault. É que o poder está impondo suas forças diretamente nos arquivos para obter controle, ou seja, os arquivos se tornam um mecanismo de controle e ações sociais, em vez de serem rastros de poder <a name="a2"></a> [[2]](#b2). Agora precisamos enfrentar um novo jogo das regras que opera em níveis cada vez mais automáticos e algorítmicos. Metadados produzidos pelos usuários tornam-se materiais de indução, para gerar padrões para previsão, regras, protocolos de controle. O arquivo se estende desde discursos até gestos. Parece-me que, hoje, para responder a essas dimensões políticas e econômicas da web, precisamos politizar a questão do arquivo. A chave parece ser os arquivos pessoais. Não é apenas por uma consideração técnica que podemos mitigar os controles dos provedores de serviços ou manter a privacidade, mas sim repensar nossa relação com os arquivos e criar outra cultura tecnológica/digital. Para fazer isso, proponho refletir sobre as seguintes perguntas: O que estamos arquivando e para que estamos arquivando? O que significa ser um arquivista?
 
-## §2. Cuidado
+# §2. Cuidado
 
 
 Nós temos sido arquivistas desde o momento em que começamos a possuir coisas, brinquedos, livros, cartões postais, cartas, nós temos nossa própria maneira de organizá-los, catalogá-los. Mas é apenas agora que estamos enfrentando uma situação em que não somos capazes de arquivá-los, seja possuindo-os ou indexando-os por nós mesmos. Existem diferentes níveis de incapacidade aqui: os serviços da web se tornam mais e mais distribuídos, enquanto a portabilidade de dados ainda é um problema; a computação em nuvem está movendo coisas do seu disco rígido para o servidor de outra pessoa; ferramentas de indexação e softwares de bibliotecas pessoais ainda estão subdesenvolvidos, etc. Não são ursinhos de pelúcia ou bonecas Barbie, mas objetos digitais (ursinhos de pelúcia e bonecas Barbie também podem ser digitais). É exatamente essa incapacidade de arquivar, criada pela condição tecnológica, que abre um novo campo de batalha para mecanismos de busca, redes sociais, computação em nuvem etc. Mas o que são esses objetos e por que precisamos re-conceituá-los de forma séria? Para compreender a questão específica dos objetos digitais, precisamos observar a evolução particular da web, especialmente o movimento decisivo da visão de Ted Nelson sobre a web e a World Wide Web de Tim Berners-Lee.
@@ -55,7 +55,7 @@ Sob essa interpretação teórica, o manifesto arquivista é uma proposta para r
 
 - Os arquivos individuais podem compartilhar entre si. Isso pode nos lembrar da ideia inicial do Napster, uma ideia baseada em compartilhamento P2P. Mas não é exatamente a mesma coisa, pois no quadro que propus, o centro não é a troca de bens, mas sim o cuidado, a preservação e a doação, para se afastar da lógica de crowdsourcing e, o mais importante, imaginar um humanismo tecnológico, como foi proposto por Gilbert Simondon.
 
-## Notas de rodapé
+# Notas de rodapé
 
 
 <a name="b1"></a> [[1]](#a1) A ideia de acumular tudo, de estabelecer uma espécie de arquivo geral, a vontade de colocar num só lugar todos os tempos, todas as épocas, todas as formas, todos os gostos, a ideia de constituir um lugar de todos os tempos que está ele próprio fora do tempo e inacessível às suas devastações, o projeto de organizar desta forma uma espécie de acumulação perpétua e indefinida do tempo num lugar imóvel, toda esta ideia pertence à nossa modernidade. Michel Foucault (1967) “Of Other Spaces”, Diacríticos 16 (Primavera de 1986), 22-27.
