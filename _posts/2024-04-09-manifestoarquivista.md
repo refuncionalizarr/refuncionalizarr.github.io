@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Manifesto Arquivista, por Yuk Hui"
-date: 2024-04-09 00:18:23
+date: 2024-04-09
 categories: traducoes
 short_description: 
 image_preview: https://avatars2.githubusercontent.com/u/4660275?v=3&s=460
