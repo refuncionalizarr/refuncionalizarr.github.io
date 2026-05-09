@@ -7,7 +7,7 @@ short_description:
 image_preview: https://avatars2.githubusercontent.com/u/4660275?v=3&s=460
 ---
 
-### #Tradução
+#Tradução
 
 Tradução por Walter Bolitto Carvalho
 
