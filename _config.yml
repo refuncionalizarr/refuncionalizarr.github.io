@@ -24,16 +24,14 @@ sass:
 theme_mode: markdown  # choices are: 'dark', 'standard', 'markdown'
 
 # Customizations
-your_name: wemake.services
-email: mail@sobolevn.me
+your_name: Walter Bolitto
+email: walter.carvalho(arroba)ufabc.edu.br
 
 navigation:
   - text: Home
     url: /
-  - text: Docs
-    url: /docs
-  - text: Examples
-    url: /examples
+  - text: Blogroll
+    url: /blogroll
 
 projects:
   - name: git-secret
