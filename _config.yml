@@ -32,6 +32,8 @@ navigation:
     url: /
   - text: Blogroll
     url: /blogroll
+  - text: Categorias
+    url: /categorias
 
 projects:
   - name: git-secret
